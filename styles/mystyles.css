@@ -1,0 +1,25 @@
+
+
+
+body {
+    background-image: url("../images/Family\ Pic.jpg");
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(85, 39, 17);
+}
+
+li {
+    font-style: italic;
+}
+
+a {
+    color: rgb(85, 39, 17);
+}
+
+ul {
+    font-weight: bold;
+}
+
+img { 
+    border-radius: 50%; width: 300px; border-radius: 500px;
+}
